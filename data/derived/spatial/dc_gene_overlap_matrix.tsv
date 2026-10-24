@@ -1,0 +1,170 @@
+signature	other	n_overlap	shared
+apm	apm	7	B2M;HLA-A;HLA-B;HLA-C;NLRC5;TAP1;TAP2
+apm	ifng	0	
+apm	dc_original	0	
+apm	cd8	0	
+apm	stromal	0	
+apm	luminal	0	
+apm	epithelial	0	
+apm	dc_no_hla	0	
+apm	cDC1	0	
+apm	cDC2	0	
+apm	myeloid	0	
+apm	mhcii	0	
+apm	consensus	0	
+ifng	apm	0	
+ifng	ifng	5	CXCL10;CXCL11;CXCL9;IRF1;STAT1
+ifng	dc_original	0	
+ifng	cd8	0	
+ifng	stromal	0	
+ifng	luminal	0	
+ifng	epithelial	0	
+ifng	dc_no_hla	0	
+ifng	cDC1	0	
+ifng	cDC2	0	
+ifng	myeloid	0	
+ifng	mhcii	0	
+ifng	consensus	0	
+dc_original	apm	0	
+dc_original	ifng	0	
+dc_original	dc_original	6	CLEC10A;FCER1A;HLA-DPA1;HLA-DPB1;HLA-DRA;ITGAX
+dc_original	cd8	0	
+dc_original	stromal	0	
+dc_original	luminal	0	
+dc_original	epithelial	0	
+dc_original	dc_no_hla	3	CLEC10A;FCER1A;ITGAX
+dc_original	cDC1	0	
+dc_original	cDC2	2	CLEC10A;FCER1A
+dc_original	myeloid	0	
+dc_original	mhcii	3	HLA-DPA1;HLA-DPB1;HLA-DRA
+dc_original	consensus	0	
+cd8	apm	0	
+cd8	ifng	0	
+cd8	dc_original	0	
+cd8	cd8	5	CD8A;CD8B;GZMB;NKG7;PRF1
+cd8	stromal	0	
+cd8	luminal	0	
+cd8	epithelial	0	
+cd8	dc_no_hla	0	
+cd8	cDC1	0	
+cd8	cDC2	0	
+cd8	myeloid	0	
+cd8	mhcii	0	
+cd8	consensus	0	
+stromal	apm	0	
+stromal	ifng	0	
+stromal	dc_original	0	
+stromal	cd8	0	
+stromal	stromal	8	ACTA2;COL1A1;COL1A2;CXCL12;FAP;FN1;PDGFRB;TGFB1
+stromal	luminal	0	
+stromal	epithelial	0	
+stromal	dc_no_hla	0	
+stromal	cDC1	0	
+stromal	cDC2	0	
+stromal	myeloid	0	
+stromal	mhcii	0	
+stromal	consensus	0	
+luminal	apm	0	
+luminal	ifng	0	
+luminal	dc_original	0	
+luminal	cd8	0	
+luminal	stromal	0	
+luminal	luminal	13	EPCAM;FOXA1;GATA3;KRT18;KRT20;KRT8;MUC1;PPARG;TACSTD2;UPK1A;UPK1B;UPK2;UPK3A
+luminal	epithelial	4	EPCAM;KRT18;KRT8;TACSTD2
+luminal	dc_no_hla	0	
+luminal	cDC1	0	
+luminal	cDC2	0	
+luminal	myeloid	0	
+luminal	mhcii	0	
+luminal	consensus	0	
+epithelial	apm	0	
+epithelial	ifng	0	
+epithelial	dc_original	0	
+epithelial	cd8	0	
+epithelial	stromal	0	
+epithelial	luminal	4	EPCAM;KRT18;KRT8;TACSTD2
+epithelial	epithelial	5	EPCAM;KRT18;KRT19;KRT8;TACSTD2
+epithelial	dc_no_hla	0	
+epithelial	cDC1	0	
+epithelial	cDC2	0	
+epithelial	myeloid	0	
+epithelial	mhcii	0	
+epithelial	consensus	0	
+dc_no_hla	apm	0	
+dc_no_hla	ifng	0	
+dc_no_hla	dc_original	3	CLEC10A;FCER1A;ITGAX
+dc_no_hla	cd8	0	
+dc_no_hla	stromal	0	
+dc_no_hla	luminal	0	
+dc_no_hla	epithelial	0	
+dc_no_hla	dc_no_hla	3	CLEC10A;FCER1A;ITGAX
+dc_no_hla	cDC1	0	
+dc_no_hla	cDC2	2	CLEC10A;FCER1A
+dc_no_hla	myeloid	0	
+dc_no_hla	mhcii	0	
+dc_no_hla	consensus	0	
+cDC1	apm	0	
+cDC1	ifng	0	
+cDC1	dc_original	0	
+cDC1	cd8	0	
+cDC1	stromal	0	
+cDC1	luminal	0	
+cDC1	epithelial	0	
+cDC1	dc_no_hla	0	
+cDC1	cDC1	4	BATF3;CADM1;CLEC9A;XCR1
+cDC1	cDC2	0	
+cDC1	myeloid	0	
+cDC1	mhcii	0	
+cDC1	consensus	0	
+cDC2	apm	0	
+cDC2	ifng	0	
+cDC2	dc_original	2	CLEC10A;FCER1A
+cDC2	cd8	0	
+cDC2	stromal	0	
+cDC2	luminal	0	
+cDC2	epithelial	0	
+cDC2	dc_no_hla	2	CLEC10A;FCER1A
+cDC2	cDC1	0	
+cDC2	cDC2	3	CD1C;CLEC10A;FCER1A
+cDC2	myeloid	0	
+cDC2	mhcii	0	
+cDC2	consensus	0	
+myeloid	apm	0	
+myeloid	ifng	0	
+myeloid	dc_original	0	
+myeloid	cd8	0	
+myeloid	stromal	0	
+myeloid	luminal	0	
+myeloid	epithelial	0	
+myeloid	dc_no_hla	0	
+myeloid	cDC1	0	
+myeloid	cDC2	0	
+myeloid	myeloid	5	AIF1;CTSS;FCER1G;LST1;TYROBP
+myeloid	mhcii	0	
+myeloid	consensus	0	
+mhcii	apm	0	
+mhcii	ifng	0	
+mhcii	dc_original	3	HLA-DPA1;HLA-DPB1;HLA-DRA
+mhcii	cd8	0	
+mhcii	stromal	0	
+mhcii	luminal	0	
+mhcii	epithelial	0	
+mhcii	dc_no_hla	0	
+mhcii	cDC1	0	
+mhcii	cDC2	0	
+mhcii	myeloid	0	
+mhcii	mhcii	4	CD74;HLA-DPA1;HLA-DPB1;HLA-DRA
+mhcii	consensus	0	
+consensus	apm	0	
+consensus	ifng	0	
+consensus	dc_original	0	
+consensus	cd8	0	
+consensus	stromal	0	
+consensus	luminal	0	
+consensus	epithelial	0	
+consensus	dc_no_hla	0	
+consensus	cDC1	0	
+consensus	cDC2	0	
+consensus	myeloid	0	
+consensus	mhcii	0	
+consensus	consensus	15	DHRS2;ERBB2;GRB7;GRHL2;KRT13;NCALD;NDRG1;PTPN13;PTPRQ;RNF19A;SCHLAP1;SLC2A1;SNX31;TCIRG1;UNC93B1

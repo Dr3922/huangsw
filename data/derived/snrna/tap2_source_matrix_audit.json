@@ -1,0 +1,19 @@
+{
+  "source_path": "GSE169379_MIBC_snSeq.h5ad (local input; not redistributed)",
+  "shape": [
+    67988,
+    33538
+  ],
+  "feature": "TAP2",
+  "exact_feature_matches": 1,
+  "column_index_zero_based": 10701,
+  "ensembl_id": "ENSG00000204267",
+  "nnz": 0,
+  "sum": 0.0,
+  "maximum": 0.0,
+  "raw_slot_present": false,
+  "layers": [
+    null
+  ],
+  "interpretation": "source feature is present but all zero; TAP2 effects are non-estimable, not zero effects"
+}

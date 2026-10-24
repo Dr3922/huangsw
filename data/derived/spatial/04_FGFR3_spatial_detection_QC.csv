@@ -1,0 +1,5 @@
+section,n_spots,n_detectable,pct_detectable,n_zero,zero_pct,nonzero_min,nonzero_median,nonzero_max,nonzero_q25,nonzero_q75,raw_q75,raw_q75_is_zero,ties_at_raw_mode_pct,enough_nonzero_for_quartile,interpretation
+A1,768,221,28.776041666666668,547,71.22395833333334,1.0,1.0,5.0,1.0,2.0,1.0,False,71.22395833333334,True,nonzero-ranked sensitivity estimable
+B1,1017,5,0.4916420845624385,1012,99.50835791543756,1.0,1.0,1.0,1.0,1.0,0.0,True,99.50835791543756,False,FGFR3 quartile stratification unreliable
+C1,1469,979,66.64397549353302,490,33.35602450646699,1.0,2.0,12.0,1.0,3.0,2.0,False,33.35602450646699,True,nonzero-ranked sensitivity estimable
+D1,832,71,8.533653846153847,761,91.46634615384616,1.0,1.0,4.0,1.0,1.0,0.0,True,91.46634615384616,True,nonzero-ranked sensitivity estimable

@@ -1,0 +1,8 @@
+covariate	source_formula	interpretation
+epithelial	mean section gene-z EPCAM,TACSTD2,KRT8,KRT18,KRT19	epithelial enrichment proxy; no tumor label
+luminal	mean section gene-z of 13 submitted genes excluding FGFR3	differentiation proxy
+stromal	mean section gene-z of spatial stromal/TGFb genes	composition proxy
+log_depth	log1p deposited total_counts	technical
+log_genes	log1p deposited n_genes_by_counts	technical
+section	one model per section	batch/slide constant within model
+histology	real deposited H&E images	no externally validated tumor-region masks; not entered as covariate

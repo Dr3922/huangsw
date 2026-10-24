@@ -1,0 +1,11 @@
+{
+  "all_estimable_prespecified_rows_have_at_least_2000_effective_draws": true,
+  "minimum_effective_draws_among_estimable_rows": 4930,
+  "tap2_all_zero_source_exception_rows": 6,
+  "unexpected_rows_below_2000": 0,
+  "maximum_failed_draws": 5000,
+  "bootstrap_iterations_prespecified": 5000,
+  "failed_draw_policy": "retained as failed; no retry or replacement",
+  "shared_patient_resampling_indices_across_features": true,
+  "largest_half_sample_CI_endpoint_shift": 0.04361475441817761
+}

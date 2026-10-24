@@ -1,0 +1,658 @@
+cohort,sample_id,source_id,patient_id,context,specimen_source,eligibility,patient_id_evidence
+GSE32894,GSM814052,UC_0001_1.a1.lbe1,UC_0001,MS1b,Bladder Tumor UC_0001_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814053,UC_0002_1.RNA.e1.a1.lbe1,UC_0002,MS2b.1,Bladder Tumor UC_0002_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814054,UC_0003_1.RNA.e1.a1.lbe1,UC_0003,MS2a.2,Bladder Tumor UC_0003_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814055,UC_0006_2.a1.lbe1,UC_0006,MS2b.1,Bladder Tumor UC_0006_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814056,UC_0007_1.RNA.e1.a1.lbe1,UC_0007,MS2a.2,Bladder Tumor UC_0007_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814057,UC_0008_1.RNA.e1.a1.lbe1,UC_0008,MS2b.1,Bladder Tumor UC_0008_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814058,UC_0009_1.RNA.e1.a1.lbe1,UC_0009,MS1b,Bladder Tumor UC_0009_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814059,UC_0010_1.a1.lbe1,UC_0010,MS1b,Bladder Tumor UC_0010_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814060,UC_0016_1.RNA.e1.a1.lbe1,UC_0016,MS2b2.2,Bladder Tumor UC_0016_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814061,UC_0017_1.a1.lbe1,UC_0017,MS1a,Bladder Tumor UC_0017_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814062,UC_0018_1.a1.lbe1,UC_0018,MS2b.1,Bladder Tumor UC_0018_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814063,UC_0022_1.RNA.e1.a1.lbe1,UC_0022,MS1b,Bladder Tumor UC_0022_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814064,UC_0023_1.a1.lbe1,UC_0023,MS2b2.2,Bladder Tumor UC_0023_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814065,UC_0024_1.a1.lbe1,UC_0024,MS1b,Bladder Tumor UC_0024_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814066,UC_0025_1.RNA.e1.a1.lbe1,UC_0025,MS1a,Bladder Tumor UC_0025_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814067,UC_0027_1.a1.lbe1,UC_0027,MS2b2.1,Bladder Tumor UC_0027_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814068,UC_0030_1.RNA.e1.a1.lbe1,UC_0030,MS2b.1,Bladder Tumor UC_0030_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814069,UC_0033_2.RNA.e1.a1.lbe1,UC_0033,MS1b,Bladder Tumor UC_0033_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814070,UC_0034_1.RNA.e1.a1.lbe1,UC_0034,MS2b.1,Bladder Tumor UC_0034_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814071,UC_0037_1.a1.lbe1,UC_0037,MS1b,Bladder Tumor UC_0037_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814072,UC_0040_1.RNA.e1.a1.lbe1,UC_0040,MS1b,Bladder Tumor UC_0040_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814073,UC_0041_2.RNA.e1.a1.lbe1,UC_0041,MS1a,Bladder Tumor UC_0041_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814074,UC_0042_2a.RNA.e1.a1.lbe1,UC_0042,MS1a,Bladder Tumor UC_0042_2a,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814075,UC_0043_1.RNA.e1.a1.lbe1,UC_0043,MS2b.1,Bladder Tumor UC_0043_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814076,UC_0046_1.RNA.e1.a1.lbe1,UC_0046,MS2b.1,Bladder Tumor UC_0046_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814077,UC_0049_2.a1.lbe1,UC_0049,MS2b.1,Bladder Tumor UC_0049_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814078,UC_0050_1.a1.lbe1,UC_0050,MS1b,Bladder Tumor UC_0050_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814079,UC_0053_1.RNA.e1.a1.lbe1,UC_0053,MS2a.2,Bladder Tumor UC_0053_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814080,UC_0055_1.a1.lbe1,UC_0055,MS2b2.2,Bladder Tumor UC_0055_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814081,UC_0059_1.RNA.e1.a1.lbe1,UC_0059,MS2a.2,Bladder Tumor UC_0059_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814082,UC_0060_4.RNA.e1.a1.lbe1,UC_0060,MS1b,Bladder Tumor UC_0060_4,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814083,UC_0066_3.RNA.e1.a1.lbe1,UC_0066,MS2b.1,Bladder Tumor UC_0066_3,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814084,UC_0067_1.RNA.e1.a1.lbe1,UC_0067,MS1b,Bladder Tumor UC_0067_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814085,UC_0069_1.RNA.e1.a1.lbe1,UC_0069,MS2a.2,Bladder Tumor UC_0069_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814086,UC_0070_1.a1.lbe1,UC_0070,MS1a,Bladder Tumor UC_0070_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814087,UC_0075_1.RNA.e1.a1.lbe1,UC_0075,MS1b,Bladder Tumor UC_0075_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814088,UC_0077_1.RNA.e1.a1.lbe1,UC_0077,MS2a.1,Bladder Tumor UC_0077_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814089,UC_0080_1.RNA.e1.a1.lbe1,UC_0080,MS2b2.1,Bladder Tumor UC_0080_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814090,UC_0086_1.RNA.e1.a1.lbe1,UC_0086,MS2a.2,Bladder Tumor UC_0086_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814091,UC_0089_1.a1.lbe1,UC_0089,MS1a,Bladder Tumor UC_0089_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814092,UC_0093_1.RNA.e1.a1.lbe1,UC_0093,MS2a.2,Bladder Tumor UC_0093_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814093,UC_0094_1.a1.lbe1,UC_0094,MS2a.2,Bladder Tumor UC_0094_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814094,UC_0095_1.a1.lbe1,UC_0095,MS2a.2,Bladder Tumor UC_0095_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814095,UC_0100_1.a1.lbe1,UC_0100,MS1b,Bladder Tumor UC_0100_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814096,UC_0101_1.RNA.e1.a1.lbe1,UC_0101,MS1b,Bladder Tumor UC_0101_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814097,UC_0103_1.a1.lbe1,UC_0103,MS2b2.2,Bladder Tumor UC_0103_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814098,UC_0106_2.a1.lbe1,UC_0106,MS1a,Bladder Tumor UC_0106_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814099,UC_0111_1.RNA.e1.a1.lbe1,UC_0111,MS1a,Bladder Tumor UC_0111_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814100,UC_0112_1.a1.lbe1,UC_0112,MS1b,Bladder Tumor UC_0112_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814101,UC_0113_1.a1.lbe1_h2,UC_0113,MS2b2.2,Bladder Tumor UC_0113_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814102,UC_0114_1.RNA.e1.a1.lbe1,UC_0114,MS1a,Bladder Tumor UC_0114_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814103,UC_0115_1.a1.lbe1,UC_0115,MS1a,Bladder Tumor UC_0115_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814104,UC_0117_1.RNA.e1.a1.lbe1,UC_0117,MS2b.1,Bladder Tumor UC_0117_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814105,UC_0119_1.a1.lbe1,UC_0119,MS2b.1,Bladder Tumor UC_0119_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814106,UC_0120_1.RNA.e1.a1.lbe1,UC_0120,MS2a.2,Bladder Tumor UC_0120_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814107,UC_0122_1.RNA.e1.a1.lbe1,UC_0122,MS1b,Bladder Tumor UC_0122_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814108,UC_0125_1.a1.lbe1_h2,UC_0125,MS2b.1,Bladder Tumor UC_0125_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814109,UC_0132_2.RNA.e1.a1.lbe1,UC_0132,MS2b.1,Bladder Tumor UC_0132_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814110,UC_0138_1.RNA.e1.a1.lbe1,UC_0138,MS2a.1,Bladder Tumor UC_0138_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814111,UC_0139_1.a1.lbe1,UC_0139,MS2b2.2,Bladder Tumor UC_0139_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814112,UC_0145_1.RNA.e1.a1.lbe1,UC_0145,MS1b,Bladder Tumor UC_0145_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814113,UC_0151_1.a1.lbe1,UC_0151,MS2a.2,Bladder Tumor UC_0151_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814114,UC_0152_1.RNA.e1.a1.lbe1,UC_0152,MS2a.2,Bladder Tumor UC_0152_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814115,UC_0154_2.a1.lbe1,UC_0154,MS2b2.2,Bladder Tumor UC_0154_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814116,UC_0156_1.a1.lbe1,UC_0156,MS2a.2,Bladder Tumor UC_0156_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814117,UC_0159_1.RNA.e2.a1.lbe1,UC_0159,MS1b,Bladder Tumor UC_0159_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814118,UC_0162_1.RNA.e1.a1.lbe1,UC_0162,MS1a,Bladder Tumor UC_0162_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814119,UC_0166_1.RNA.e1.a1.lbe1,UC_0166,MS2a.2,Bladder Tumor UC_0166_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814120,UC_0169_1.a1.lbe1,UC_0169,MS2a.2,Bladder Tumor UC_0169_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814121,UC_0170_1.RNA.e1.a1.lbe1,UC_0170,MS2a.1,Bladder Tumor UC_0170_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814122,UC_0176_2.RNA.e1.a1.lbe1,UC_0176,MS1a,Bladder Tumor UC_0176_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814123,UC_0185_1.a1.lbe1,UC_0185,MS1a,Bladder Tumor UC_0185_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814124,UC_0187_1.RNA.e1.a1.lbe1,UC_0187,MS2a.1,Bladder Tumor UC_0187_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814125,UC_0193_1.a1.lbe1,UC_0193,MS2b2.2,Bladder Tumor UC_0193_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814126,UC_0195_1.RNA.e1.a1.lbe1,UC_0195,MS2b2.2,Bladder Tumor UC_0195_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814127,UC_0196_1.RNA.e1.a1.lbe1,UC_0196,MS2b2.2,Bladder Tumor UC_0196_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814128,UC_0199_1.RNA.e1.a1.lbe1,UC_0199,MS1a,Bladder Tumor UC_0199_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814129,UC_0200_1.RNA.e1.a1.lbe1,UC_0200,MS1b,Bladder Tumor UC_0200_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814130,UC_0201_1.a1.lbe1,UC_0201,MS1b,Bladder Tumor UC_0201_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814131,UC_0203_1.RNA.e1.a1.lbe1,UC_0203,MS2a.1,Bladder Tumor UC_0203_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814132,UC_0207_1.RNA.e1.a1.lbe1,UC_0207,MS2a.2,Bladder Tumor UC_0207_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814133,UC_0208_1.RNA.e1.a1.lbe1,UC_0208,MS1a,Bladder Tumor UC_0208_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814134,UC_0209_1.RNA.e1.a1.lbe1,UC_0209,MS1a,Bladder Tumor UC_0209_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814135,UC_0210_2.a1.lbe1,UC_0210,MS1b,Bladder Tumor UC_0210_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814136,UC_0211_2.RNA.e1.a1.lbe1,UC_0211,MS1b,Bladder Tumor UC_0211_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814137,UC_0213_1.RNA.e1.a1.lbe1,UC_0213,MS1b,Bladder Tumor UC_0213_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814138,UC_0214_1.RNA.e1.a1.lbe1,UC_0214,MS2b2.1,Bladder Tumor UC_0214_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814139,UC_0215_1.RNA.e1.a1.lbe1,UC_0215,MS1a,Bladder Tumor UC_0215_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814140,UC_0218_2.RNA.e1.a1.lbe1,UC_0218,MS2a.1,Bladder Tumor UC_0218_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814141,UC_0223_1.RNA.e1.a1.lbe1,UC_0223,MS2a.2,Bladder Tumor UC_0223_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814142,UC_0224_1.RNA.e1.a1.lbe1,UC_0224,MS2a.2,Bladder Tumor UC_0224_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814143,UC_0226_1.a1.lbe1,UC_0226,MS1b,Bladder Tumor UC_0226_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814144,UC_0230_1.RNA.e1.a1.lbe1,UC_0230,MS2b2.2,Bladder Tumor UC_0230_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814145,UC_0231_1.a1.lbe1,UC_0231,MS2a.2,Bladder Tumor UC_0231_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814146,UC_0234_1.a1.lbe1,UC_0234,MS2b.1,Bladder Tumor UC_0234_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814147,UC_0235_3.RNA.e1.a1.lbe1,UC_0235,MS1b,Bladder Tumor UC_0235_3,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814148,UC_0237_1.RNA.e1.a1.lbe1,UC_0237,MS2a.1,Bladder Tumor UC_0237_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814149,UC_0238_1.a1.lbe1,UC_0238,MS1b,Bladder Tumor UC_0238_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814150,UC_0240_1.RNA.e1.a1.lbe1,UC_0240,MS1a,Bladder Tumor UC_0240_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814151,UC_0244_1.a1.lbe1,UC_0244,MS2b2.2,Bladder Tumor UC_0244_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814152,UC_0247_1.a1.lbe1,UC_0247,MS2b.1,Bladder Tumor UC_0247_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814153,UC_0248_2.a1.lbe1,UC_0248,MS1b,Bladder Tumor UC_0248_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814154,UC_0249_1.RNA.e1.a1.lbe1,UC_0249,MS1b,Bladder Tumor UC_0249_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814155,UC_0257_1.a1.lbe1,UC_0257,MS1a,Bladder Tumor UC_0257_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814156,UC_0260_1.a1.lbe1,UC_0260,MS2b.1,Bladder Tumor UC_0260_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814157,UC_0263_1.RNA.e1.a1.lbe1,UC_0263,MS1a,Bladder Tumor UC_0263_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814158,UC_0265_1.RNA.e1.a1.lbe1,UC_0265,MS2b2.2,Bladder Tumor UC_0265_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814159,UC_0267_3.RNA.e1.a1.lbe1,UC_0267,MS1b,Bladder Tumor UC_0267_3,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814160,UC_0274_1.RNA.e1.a1.lbe1,UC_0274,MS1a,Bladder Tumor UC_0274_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814161,UC_0277_1.a1.lbe1,UC_0277,MS2a.2,Bladder Tumor UC_0277_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814162,UC_0279_1.a1.lbe1_h2,UC_0279,MS1a,Bladder Tumor UC_0279_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814163,UC_0283_1.RNA.e1.a1.lbe1,UC_0283,MS1b,Bladder Tumor UC_0283_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814164,UC_0284_1.RNA.e1.a1.lbe1,UC_0284,MS1b,Bladder Tumor UC_0284_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814165,UC_0287_1.RNA.e1.a1.lbe1,UC_0287,MS2a.1,Bladder Tumor UC_0287_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814166,UC_0290_1.RNA.e1.a1.lbe1,UC_0290,MS1b,Bladder Tumor UC_0290_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814167,UC_0295_2c.RNA.e1.a1.lbe1,UC_0295,MS1b,Bladder Tumor UC_0295_2c,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814168,UC_0299_1.RNA.e1.a1.lbe1,UC_0299,MS2b.1,Bladder Tumor UC_0299_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814169,UC_0301_1.a1.lbe1,UC_0301,MS1b,Bladder Tumor UC_0301_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814170,UC_0302_1.RNA.e1.a1.lbe1,UC_0302,MS2a.1,Bladder Tumor UC_0302_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814171,UC_0312_1.RNA.e1.a1.lbe1,UC_0312,MS2a.1,Bladder Tumor UC_0312_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814172,UC_0321_1.RNA.e1.a1.lbe1,UC_0321,MS2b2.1,Bladder Tumor UC_0321_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814173,UC_0322_2.RNA.e1.a1.lbe1,UC_0322,MS2b2.2,Bladder Tumor UC_0322_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814174,UC_0327_1.RNA.e1.a1.lbe1,UC_0327,MS1a,Bladder Tumor UC_0327_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814175,UC_0328_1.a1.lbe1,UC_0328,MS2a.2,Bladder Tumor UC_0328_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814176,UC_0329_1.RNA.e1.a1.lbe1,UC_0329,MS2b.1,Bladder Tumor UC_0329_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814177,UC_0333_1.RNA.e1.a1.lbe1,UC_0333,MS1b,Bladder Tumor UC_0333_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814178,UC_0334_1.a1.lbe1,UC_0334,MS2a.2,Bladder Tumor UC_0334_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814179,UC_0335_1.RNA.e1.a1.lbe1,UC_0335,MS2b2.1,Bladder Tumor UC_0335_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814180,UC_0336_2.a1.lbe1,UC_0336,MS2b2.1,Bladder Tumor UC_0336_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814181,UC_0337_1.a1.lbe1,UC_0337,MS2a.2,Bladder Tumor UC_0337_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814182,UC_0339_1.RNA.e1.a1.lbe1,UC_0339,MS2b2.1,Bladder Tumor UC_0339_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814183,UC_0340_1.a1.lbe1,UC_0340,MS1b,Bladder Tumor UC_0340_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814184,UC_0342_1.RNA.e1.a1.lbe1,UC_0342,MS2a.1,Bladder Tumor UC_0342_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814185,UC_0343_1.a1.lbe1,UC_0343,MS2b2.1,Bladder Tumor UC_0343_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814186,UC_0344_1.a1.lbe1_h2,UC_0344,MS2b.1,Bladder Tumor UC_0344_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814187,UC_0345_1.a1.lbe1_h2,UC_0345,MS2b2.2,Bladder Tumor UC_0345_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814188,UC_0348_1.a1.lbe1,UC_0348,MS2b2.1,Bladder Tumor UC_0348_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814189,UC_0349_3.RNA.e1.a1.lbe1,UC_0349,MS2b.1,Bladder Tumor UC_0349_3,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814190,UC_0354_2c.RNA.e1.a1.lbe1,UC_0354,MS1b,Bladder Tumor UC_0354_2c,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814191,UC_0361_1.RNA.e1.a1.lbe1,UC_0361,MS1a,Bladder Tumor UC_0361_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814192,UC_0367_1.a1.lbe1_h2,UC_0367,MS1b,Bladder Tumor UC_0367_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814193,UC_0368_1.RNA.e1.a1.lbe1,UC_0368,MS1b,Bladder Tumor UC_0368_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814194,UC_0369_1.a1.lbe1,UC_0369,MS1b,Bladder Tumor UC_0369_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814195,UC_0372_1.RNA.e1.a1.lbe1,UC_0372,MS2a.1,Bladder Tumor UC_0372_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814196,UC_0374_2a.a1.lbe1_h2,UC_0374,MS1b,Bladder Tumor UC_0374_2a,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814197,UC_0375_1.a1.lbe1,UC_0375,MS2b.1,Bladder Tumor UC_0375_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814198,UC_0376_1.RNA.e1.a1.lbe1,UC_0376,MS2a.2,Bladder Tumor UC_0376_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814199,UC_0384_1.RNA.e1.a1.lbe1,UC_0384,MS2a.1,Bladder Tumor UC_0384_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814200,UC_0386_1.a1.lbe1,UC_0386,MS1a,Bladder Tumor UC_0386_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814201,UC_0393_1.a1.lbe1,UC_0393,MS1b,Bladder Tumor UC_0393_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814202,UC_0394_1.a1.lbe1,UC_0394,MS2a.1,Bladder Tumor UC_0394_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814203,UC_0395_1a.RNA.e1.a1.lbe1,UC_0395,MS2a.1,Bladder Tumor UC_0395_1a,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814204,UC_0397_1.RNA.e1.a1.lbe1,UC_0397,MS2b.1,Bladder Tumor UC_0397_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814205,UC_0398_1.a1.lbe1,UC_0398,MS1a,Bladder Tumor UC_0398_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814206,UC_0399_1.RNA.e1.a1.lbe1,UC_0399,MS2a.2,Bladder Tumor UC_0399_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814207,UC_0400_1b.RNA.e1.a1.lbe1,UC_0400,MS1b,Bladder Tumor UC_0400_1b,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814208,UC_0405_1.a1.lbe1,UC_0405,MS1a,Bladder Tumor UC_0405_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814209,UC_0410_1a.RNA.e1.a1.lbe1,UC_0410,MS2a.1,Bladder Tumor UC_0410_1a,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814210,UC_0414_1.a1.lbe1,UC_0414,MS1a,Bladder Tumor UC_0414_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814211,UC_0415_1.a1.lbe1,UC_0415,MS1a,Bladder Tumor UC_0415_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814212,UC_0421_1.a1.lbe1,UC_0421,MS1b,Bladder Tumor UC_0421_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814213,UC_0429_1a.a1.lbe1,UC_0429,MS1b,Bladder Tumor UC_0429_1a,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814214,UC_0437_1.a1.lbe1,UC_0437,MS2b.1,Bladder Tumor UC_0437_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814215,UC_0438_1.a1.lbe1,UC_0438,MS1b,Bladder Tumor UC_0438_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814216,UC_0442_1.RNA.e1.a1.lbe1,UC_0442,MS1b,Bladder Tumor UC_0442_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814217,UC_0445_1.a1.lbe1,UC_0445,MS2b.1,Bladder Tumor UC_0445_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814218,UC_0447_1.RNA.e1.a1.lbe1,UC_0447,MS2b2.2,Bladder Tumor UC_0447_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814219,UC_0453_1.a1.lbe1,UC_0453,MS2b.1,Bladder Tumor UC_0453_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814220,UC_0454_1.a1.lbe1,UC_0454,MS2b2.2,Bladder Tumor UC_0454_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814221,UC_0456_2.RNA.e1.a1.lbe1,UC_0456,MS1b,Bladder Tumor UC_0456_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814222,UC_0461_1.a1.lbe1,UC_0461,MS2a.2,Bladder Tumor UC_0461_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814223,UC_0466_1a.a1.lbe1,UC_0466,MS2a.2,Bladder Tumor UC_0466_1a,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814224,UC_0468_1.a1.lbe1,UC_0468,MS1b,Bladder Tumor UC_0468_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814225,UC_0475_1.RNA.e1.a1.lbe1,UC_0475,MS2b2.2,Bladder Tumor UC_0475_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814226,UC_0487_1.a1.lbe1,UC_0487,MS1a,Bladder Tumor UC_0487_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814227,UC_0488_2.RNA.e1.a1.lbe1,UC_0488,MS1b,Bladder Tumor UC_0488_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814228,UC_0491_1.a1.lbe1,UC_0491,MS1b,Bladder Tumor UC_0491_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814229,UC_0493_1.a1.lbe1,UC_0493,MS1b,Bladder Tumor UC_0493_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814230,UC_0494_1.a1.lbe1,UC_0494,MS2a.2,Bladder Tumor UC_0494_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814231,UC_0495_1.a1.lbe1,UC_0495,MS1b,Bladder Tumor UC_0495_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814232,UC_0497_1.a1.lbe1,UC_0497,MS2b.1,Bladder Tumor UC_0497_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814233,UC_0499_1.a1.lbe1_h2,UC_0499,MS2a.2,Bladder Tumor UC_0499_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814234,UC_0506_1.a1.lbe1,UC_0506,MS1b,Bladder Tumor UC_0506_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814235,UC_0507_1.RNA.e1.a1.lbe1,UC_0507,MS2a.2,Bladder Tumor UC_0507_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814236,UC_0512_1.a1.lbe1,UC_0512,MS2b.1,Bladder Tumor UC_0512_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814237,UC_0513_1b.RNA.e1.a1.lbe1,UC_0513,MS1b,Bladder Tumor UC_0513_1b,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814238,UC_0516_1.RNA.e1.a1.lbe1,UC_0516,MS2b.1,Bladder Tumor UC_0516_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814239,UC_0518_1.RNA.e1.a1.lbe1,UC_0518,MS2a.2,Bladder Tumor UC_0518_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814240,UC_0519_1.RNA.e1.a1.lbe1,UC_0519,MS2a.2,Bladder Tumor UC_0519_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814241,UC_0521_1.RNA.e1.a1.lbe1,UC_0521,MS2b.1,Bladder Tumor UC_0521_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814242,UC_0522_1.RNA.e1.a1.lbe1,UC_0522,MS2b.1,Bladder Tumor UC_0522_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814243,UC_0523_1.a1.lbe1,UC_0523,MS2b2.1,Bladder Tumor UC_0523_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814244,UC_0524_1.a1.lbe1,UC_0524,MS2a.2,Bladder Tumor UC_0524_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814245,UC_0525_1.a1.lbe1,UC_0525,MS2a.1,Bladder Tumor UC_0525_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814246,UC_0528_1.RNA.e1.a1.lbe1,UC_0528,MS2b2.1,Bladder Tumor UC_0528_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814247,UC_0530_1.a1.lbe1,UC_0530,MS1b,Bladder Tumor UC_0530_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814248,UC_0533_1.RNA.e2.a1.lbe1,UC_0533,MS2a.2,Bladder Tumor UC_0533_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814249,UC_0536_1.a1.lbe1,UC_0536,MS1b,Bladder Tumor UC_0536_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814250,UC_0537_1.a1.lbe1,UC_0537,MS1a,Bladder Tumor UC_0537_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814251,UC_0539_1.RNA.e1.a1.lbe1,UC_0539,MS2b2.2,Bladder Tumor UC_0539_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814252,UC_0542_2.RNA.e1.a1.lbe1,UC_0542,MS1b,Bladder Tumor UC_0542_2,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814253,UC_0544_1.RNA.e1.a1.lbe1,UC_0544,MS1b,Bladder Tumor UC_0544_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814254,UC_0545_1.RNA.e1.a1.lbe1,UC_0545,MS2b2.1,Bladder Tumor UC_0545_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814255,UC_0546_1.a1.lbe1,UC_0546,MS2a.2,Bladder Tumor UC_0546_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814256,UC_0548_1.a1.lbe1,UC_0548,MS1b,Bladder Tumor UC_0548_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814257,UC_0549_1.a1.lbe1,UC_0549,MS1b,Bladder Tumor UC_0549_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814258,UC_0551_1.RNA.e1.a1.lbe1,UC_0551,MS2b.1,Bladder Tumor UC_0551_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814259,UC_0552_1.RNA.e1.a1.lbe1,UC_0552,MS2a.2,Bladder Tumor UC_0552_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814260,UC_0554_1.a1.lbe1,UC_0554,MS2b2.1,Bladder Tumor UC_0554_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814261,UC_0555_1.a1.lbe1,UC_0555,MS1a,Bladder Tumor UC_0555_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814262,UC_0556_1.a1.lbe1,UC_0556,MS2a.2,Bladder Tumor UC_0556_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814263,UC_0557_1.a1.lbe1,UC_0557,MS1a,Bladder Tumor UC_0557_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814264,UC_0558_1.a1.lbe1,UC_0558,MS2b.1,Bladder Tumor UC_0558_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814265,UC_0561_1a.a1.lbe1,UC_0561,MS2a.2,Bladder Tumor UC_0561_1a,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814266,UC_0563_1.a1.lbe1,UC_0563,MS1a,Bladder Tumor UC_0563_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814267,UC_0565_1.a1.lbe1,UC_0565,MS1b,Bladder Tumor UC_0565_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814268,UC_0566_1.RNA.e1.a1.lbe1,UC_0566,MS2b2.2,Bladder Tumor UC_0566_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814269,UC_0567_1.RNA.e1.a1.lbe1,UC_0567,MS2b2.2,Bladder Tumor UC_0567_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814270,UC_0572_1.a1.lbe1,UC_0572,MS2b2.2,Bladder Tumor UC_0572_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814271,UC_0573_1.a1.lbe1,UC_0573,MS1b,Bladder Tumor UC_0573_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814272,UC_0574_1.a1.lbe1,UC_0574,MS2a.2,Bladder Tumor UC_0574_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814273,UC_0575_1.a1.lbe1,UC_0575,MS1a,Bladder Tumor UC_0575_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814274,UC_0576_1.a1.lbe1,UC_0576,MS1b,Bladder Tumor UC_0576_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814275,UC_0577_1.a1.lbe1,UC_0577,MS2a.1,Bladder Tumor UC_0577_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814276,UC_0578_1.a1.lbe1,UC_0578,MS1a,Bladder Tumor UC_0578_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814277,UC_0579_1.a1.lbe1,UC_0579,MS2b2.2,Bladder Tumor UC_0579_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814278,UC_0580_1.a1.lbe1,UC_0580,MS2a.1,Bladder Tumor UC_0580_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814279,UC_0582_1.a1.lbe1,UC_0582,MS2b2.1,Bladder Tumor UC_0582_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814280,UC_0583_1.a1.lbe1,UC_0583,MS2a.2,Bladder Tumor UC_0583_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814281,UC_0584_1.a1.lbe1,UC_0584,MS1a,Bladder Tumor UC_0584_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814282,UC_0588_1.a1.lbe1,UC_0588,MS2b.1,Bladder Tumor UC_0588_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814283,UC_0589_1.a1.lbe1,UC_0589,MS2a.2,Bladder Tumor UC_0589_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814284,UC_0591_1.a1.lbe1,UC_0591,MS2a.1,Bladder Tumor UC_0591_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814285,UC_0592_1.a1.lbe1,UC_0592,MS2b.1,Bladder Tumor UC_0592_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814286,UC_0593_1.a1.lbe1,UC_0593,MS1a,Bladder Tumor UC_0593_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814287,UC_0595_1.RNA.e1.a1.lbe1,UC_0595,MS2b.1,Bladder Tumor UC_0595_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814288,UC_0598_1.a1.lbe1,UC_0598,MS1a,Bladder Tumor UC_0598_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814289,UC_0600_1.a1.lbe1,UC_0600,MS2b2.1,Bladder Tumor UC_0600_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814290,UC_0601_1.a1.lbe1,UC_0601,MS2a.2,Bladder Tumor UC_0601_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814291,UC_0605_1.a1.lbe1,UC_0605,MS1b,Bladder Tumor UC_0605_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814292,UC_0606_1.a1.lbe1,UC_0606,MS1b,Bladder Tumor UC_0606_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814293,UC_0607_1.a1.lbe1,UC_0607,MS2a.2,Bladder Tumor UC_0607_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814294,UC_0608_1.a1.lbe1,UC_0608,MS2b2.1,Bladder Tumor UC_0608_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814295,UC_0610_1.RNA.e1.a1.lbe1,UC_0610,MS2a.2,Bladder Tumor UC_0610_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814296,UC_0611_1.a1.lbe1_h2,UC_0611,MS1a,Bladder Tumor UC_0611_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814297,UC_0612_1.a1.lbe1,UC_0612,MS1a,Bladder Tumor UC_0612_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814298,UC_0613_1.a1.lbe1,UC_0613,MS2b.1,Bladder Tumor UC_0613_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814299,UC_0614_1.a1.lbe1,UC_0614,MS2a.1,Bladder Tumor UC_0614_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814300,UC_0615_1.a1.lbe1,UC_0615,MS2a.1,Bladder Tumor UC_0615_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814301,UC_0616_1.a1.lbe1,UC_0616,MS2b.1,Bladder Tumor UC_0616_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814302,UC_0619_1.a1.lbe1,UC_0619,MS2b2.1,Bladder Tumor UC_0619_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814303,UC_0620_1.a1.lbe1,UC_0620,MS2a.2,Bladder Tumor UC_0620_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814304,UC_0622_1.a1.lbe1,UC_0622,MS1a,Bladder Tumor UC_0622_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814305,UC_0624_1.a1.lbe1,UC_0624,MS1b,Bladder Tumor UC_0624_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814306,UC_0625_1.a1.lbe1,UC_0625,MS1b,Bladder Tumor UC_0625_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814307,UC_0626_1.a1.lbe1,UC_0626,MS2a.1,Bladder Tumor UC_0626_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814308,UC_0628_1.a1.lbe1,UC_0628,MS2b2.1,Bladder Tumor UC_0628_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814309,UC_0692_1.a1.lbe1,UC_0692,MS2a.1,Bladder Tumor UC_0692_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814310,UC_0694_1.a1.lbe1,UC_0694,MS2a.1,Bladder Tumor UC_0694_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814311,UC_0695_1.a1.lbe1,UC_0695,MS2a.2,Bladder Tumor UC_0695_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814312,UC_0696_1.a1.lbe1,UC_0696,MS2b.1,Bladder Tumor UC_0696_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814313,UC_0697_1.a1.lbe1,UC_0697,MS2b.1,Bladder Tumor UC_0697_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814314,UC_0698_1.a1.lbe1,UC_0698,MS1a,Bladder Tumor UC_0698_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814315,UC_0699_1.a1.lbe1,UC_0699,MS2a.2,Bladder Tumor UC_0699_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814316,UC_0700_1.a1.lbe1,UC_0700,MS2a.2,Bladder Tumor UC_0700_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814317,UC_0701_1.a1.lbe1,UC_0701,MS2b.1,Bladder Tumor UC_0701_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814318,UC_0703_1.a1.lbe1,UC_0703,MS1a,Bladder Tumor UC_0703_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814319,UC_0704_1.a1.lbe1,UC_0704,MS1b,Bladder Tumor UC_0704_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814320,UC_0705_1.a1.lbe1,UC_0705,MS2b2.2,Bladder Tumor UC_0705_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814321,UC_0706_1.a1.lbe1,UC_0706,MS1b,Bladder Tumor UC_0706_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814322,UC_0707_1.a1.lbe1,UC_0707,MS2a.2,Bladder Tumor UC_0707_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814323,UC_0710_1.a1.lbe1,UC_0710,MS1b,Bladder Tumor UC_0710_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814324,UC_0712_1.a1.lbe1,UC_0712,MS1b,Bladder Tumor UC_0712_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814325,UC_0713_1.a1.lbe1,UC_0713,MS2a.2,Bladder Tumor UC_0713_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814326,UC_0715_1.a1.lbe1,UC_0715,MS1a,Bladder Tumor UC_0715_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814327,UC_0717_1.a1.lbe1,UC_0717,MS1b,Bladder Tumor UC_0717_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814328,UC_0718_1.a1.lbe1,UC_0718,MS1a,Bladder Tumor UC_0718_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814329,UC_0719_1.a1.lbe1,UC_0719,MS1b,Bladder Tumor UC_0719_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814330,UC_0720_1.a1.lbe1,UC_0720,MS2a.1,Bladder Tumor UC_0720_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814331,UC_0721_1.a1.lbe1,UC_0721,MS2b2.1,Bladder Tumor UC_0721_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814332,UC_0722_1.a1.lbe1,UC_0722,MS2a.2,Bladder Tumor UC_0722_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814333,UC_0723_1.a1.lbe1,UC_0723,MS1b,Bladder Tumor UC_0723_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814334,UC_0724_1.a1.lbe1,UC_0724,MS2b.1,Bladder Tumor UC_0724_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814335,UC_0725_1.a1.lbe1,UC_0725,MS2b2.2,Bladder Tumor UC_0725_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814336,UC_0726_1.a1.lbe1,UC_0726,MS1a,Bladder Tumor UC_0726_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814337,UC_0743_1.a1.lbe1,UC_0743,MS1b,Bladder Tumor UC_0743_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814338,UC_0745_1.a1.lbe1,UC_0745,MS1a,Bladder Tumor UC_0745_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814339,UC_0746_1.a1.lbe1,UC_0746,MS2a.2,Bladder Tumor UC_0746_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814340,UC_0750_1.a1.lbe1,UC_0750,MS2a.2,Bladder Tumor UC_0750_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814341,UC_0751_1.a1.lbe1,UC_0751,MS2a.1,Bladder Tumor UC_0751_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814342,UC_0752_1.a1.lbe1,UC_0752,MS1a,Bladder Tumor UC_0752_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814343,UC_0753_1.a1.lbe1,UC_0753,MS2a.1,Bladder Tumor UC_0753_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814344,UC_0757_1.a1.lbe1,UC_0757,MS2b2.2,Bladder Tumor UC_0757_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814345,UC_0760_1.a1.lbe1,UC_0760,MS1b,Bladder Tumor UC_0760_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814346,UC_0762_1.a1.lbe1,UC_0762,MS2b2.1,Bladder Tumor UC_0762_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814347,UC_0765_1.a1.lbe1,UC_0765,MS2a.2,Bladder Tumor UC_0765_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814348,UC_0766_1.a1.lbe1,UC_0766,MS1a,Bladder Tumor UC_0766_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814349,UC_0769_1.a1.lbe1,UC_0769,MS2b2.2,Bladder Tumor UC_0769_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814350,UC_0770_1.a1.lbe1,UC_0770,MS2a.1,Bladder Tumor UC_0770_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814351,UC_0775_1.a1.lbe1,UC_0775,MS1a,Bladder Tumor UC_0775_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814352,UC_0776_1.a1.lbe1,UC_0776,MS1b,Bladder Tumor UC_0776_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814353,UC_0778_1.a1.lbe1,UC_0778,MS2b2.2,Bladder Tumor UC_0778_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814354,UC_0779_1.a1.lbe1,UC_0779,MS2b2.2,Bladder Tumor UC_0779_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814355,UC_0780_1.a1.lbe1,UC_0780,MS1a,Bladder Tumor UC_0780_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814356,UC_0781_1.a1.lbe1,UC_0781,MS2a.2,Bladder Tumor UC_0781_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814357,UC_0782_1.a1.lbe1,UC_0782,MS2a.1,Bladder Tumor UC_0782_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814358,UC_0783_1.a1.lbe1,UC_0783,MS1a,Bladder Tumor UC_0783_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE32894,GSM814359,UC_0785_1.a1.lbe1,UC_0785,MS2b.1,Bladder Tumor UC_0785_1,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340537,Control C010,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340538,Control C017,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340539,Control C029,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340540,Control C030,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340541,Control C040,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340542,Vav-Control MPP RNA-seq 1,unknown,unknown,Multipotent Progenitor Cells (MPPs),see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340543,Control C044,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340544,Control C045,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340545,Control C051,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340546,Control C072,unknown,unknown,Normal bladder mucosae,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340547,Surrounding BS017,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340548,Surrounding BS038,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340549,Surrounding BS039,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340550,Surrounding BS040,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340551,Surrounding BS041,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340552,Surrounding BS044,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340553,Surrounding BS045,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340554,Surrounding BS047,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340555,Surrounding BS048,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340556,Surrounding BS051,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340557,Surrounding BS052,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340558,Surrounding BS054,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340559,Surrounding BS059,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340560,Surrounding BS063,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340561,Surrounding BS065,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340562,Surrounding BS068,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340563,Surrounding BS073,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340564,Surrounding BS075,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340565,Surrounding BS080,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340566,Surrounding BS081,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340567,Surrounding BS083,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340568,Surrounding BS084,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340569,Surrounding BS085,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340570,Surrounding BS086,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340571,Surrounding BS087,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340572,Surrounding BS089,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340573,Surrounding BS091,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340574,Surrounding BS093,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340575,Surrounding BS095,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340576,Surrounding BS097,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340577,Surrounding BS100,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340578,Surrounding BS101,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340579,Surrounding BS104,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340580,Surrounding BS106,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340581,Surrounding BS107,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340582,Surrounding BS108,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340583,Surrounding BS109,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340584,Surrounding BS111,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340585,Surrounding BS113,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340586,Surrounding BS115,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340587,Surrounding BS117,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340588,Surrounding BS119,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340589,Surrounding BS123,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340590,Surrounding BS125,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340591,Surrounding BS126,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340592,Surrounding BS129,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340593,Surrounding BS130,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340594,Surrounding BS131,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340595,Surrounding BS134,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340596,Surrounding BS135,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340597,Surrounding BS142,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340598,Surrounding BS150,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340599,Surrounding BS168,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340600,Surrounding BS169,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340601,Surrounding BS170,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340602,Surrounding BS301,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340603,Surrounding BS302,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340604,Surrounding BS303,unknown,unknown,Bladder mucosae surrounding cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340605,Primary bladder cancer BT001,BT001,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340606,Primary bladder cancer BT002,BT002,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340607,Primary bladder cancer BT003,BT003,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340608,Primary bladder cancer BT004,BT004,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340609,Primary bladder cancer BT005,BT005,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340610,Primary bladder cancer BT006,BT006,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340611,Primary bladder cancer BT007,BT007,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340612,Primary bladder cancer BT008,BT008,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340613,Primary bladder cancer BT009,BT009,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340614,Primary bladder cancer BT010,BT010,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340615,Primary bladder cancer BT011,BT011,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340616,Primary bladder cancer BT012,BT012,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340617,Primary bladder cancer BT013,BT013,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340618,Primary bladder cancer BT014,BT014,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340619,Primary bladder cancer BT015,BT015,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340620,Primary bladder cancer BT016,BT016,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340621,Primary bladder cancer BT017,BT017,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340622,Primary bladder cancer BT018,BT018,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340623,Primary bladder cancer BT019,BT019,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340624,Primary bladder cancer BT020,BT020,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340625,Primary bladder cancer BT021,BT021,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340626,Primary bladder cancer BT022,BT022,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340627,Primary bladder cancer BT023,BT023,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340628,Primary bladder cancer BT024,BT024,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340629,Primary bladder cancer BT025,BT025,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340630,Primary bladder cancer BT026,BT026,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340631,Primary bladder cancer BT027,BT027,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340632,Primary bladder cancer BT028,BT028,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340633,Primary bladder cancer BT029,BT029,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340634,Primary bladder cancer BT030,BT030,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340635,Primary bladder cancer BT031,BT031,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340636,Primary bladder cancer BT032,BT032,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340637,Primary bladder cancer BT033,BT033,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340638,Primary bladder cancer BT034,BT034,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340639,Primary bladder cancer BT035,BT035,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340640,Primary bladder cancer BT036,BT036,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340641,Primary bladder cancer BT037,BT037,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340642,Primary bladder cancer BT038,BT038,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340643,Primary bladder cancer BT039,BT039,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340644,Primary bladder cancer BT040,BT040,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340645,Primary bladder cancer BT041,BT041,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340646,Primary bladder cancer BT042,BT042,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340647,Primary bladder cancer BT043,BT043,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340648,Primary bladder cancer BT044,BT044,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340649,Primary bladder cancer BT045,BT045,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340650,Primary bladder cancer BT046,BT046,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340651,Primary bladder cancer BT047,BT047,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340652,Primary bladder cancer BT048,BT048,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340653,Primary bladder cancer BT049,BT049,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340654,Primary bladder cancer BT050,BT050,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340655,Primary bladder cancer BT051,BT051,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340656,Primary bladder cancer BT052,BT052,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340657,Primary bladder cancer BT053,BT053,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340658,Primary bladder cancer BT054,BT054,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340659,Primary bladder cancer BT055,BT055,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340660,Primary bladder cancer BT056,BT056,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340661,Primary bladder cancer BT057,BT057,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340662,Primary bladder cancer BT058,BT058,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340663,Primary bladder cancer BT059,BT059,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340664,Primary bladder cancer BT060,BT060,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340665,Primary bladder cancer BT061,BT061,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340666,Primary bladder cancer BT062,BT062,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340667,Primary bladder cancer BT063,BT063,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340668,Primary bladder cancer BT064,BT064,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340669,Primary bladder cancer BT065,BT065,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340670,Primary bladder cancer BT066,BT066,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340671,Primary bladder cancer BT067,BT067,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340672,Primary bladder cancer BT068,BT068,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340673,Primary bladder cancer BT069,BT069,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340674,Primary bladder cancer BT070,BT070,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340675,Primary bladder cancer BT071,BT071,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340676,Primary bladder cancer BT072,BT072,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340677,Primary bladder cancer BT073,BT073,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340678,Primary bladder cancer BT074,BT074,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340679,Primary bladder cancer BT075,BT075,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340680,Primary bladder cancer BT076,BT076,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340681,Primary bladder cancer BT077,BT077,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340682,Primary bladder cancer BT078,BT078,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340683,Primary bladder cancer BT079,BT079,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340684,Primary bladder cancer BT080,BT080,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340685,Primary bladder cancer BT081,BT081,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340686,Primary bladder cancer BT082,BT082,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340687,Primary bladder cancer BT083,BT083,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340688,Primary bladder cancer BT084,BT084,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340689,Primary bladder cancer BT085,BT085,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340690,Primary bladder cancer BT086,BT086,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340691,Primary bladder cancer BT087,BT087,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340692,Primary bladder cancer BT088,BT088,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340693,Primary bladder cancer BT089,BT089,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340694,Primary bladder cancer BT090,BT090,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340695,Primary bladder cancer BT091,BT091,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340696,Primary bladder cancer BT092,BT092,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340697,Primary bladder cancer BT093,BT093,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340698,Primary bladder cancer BT094,BT094,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340699,Primary bladder cancer BT095,BT095,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340700,Primary bladder cancer BT096,BT096,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340701,Primary bladder cancer BT097,BT097,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340702,Primary bladder cancer BT098,BT098,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340703,Primary bladder cancer BT099,BT099,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340704,Primary bladder cancer BT100,BT100,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340705,Primary bladder cancer BT101,BT101,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340706,Primary bladder cancer BT102,BT102,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340707,Primary bladder cancer BT103,BT103,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340708,Primary bladder cancer BT104,BT104,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340709,Primary bladder cancer BT105,BT105,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340710,Primary bladder cancer BT106,BT106,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340711,Primary bladder cancer BT107,BT107,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340712,Primary bladder cancer BT108,BT108,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340713,Primary bladder cancer BT109,BT109,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340714,Primary bladder cancer BT110,BT110,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340715,Primary bladder cancer BT111,BT111,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340716,Primary bladder cancer BT113,BT113,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340717,Primary bladder cancer BT114,BT114,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340718,Primary bladder cancer BT115,BT115,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340719,Primary bladder cancer BT116,BT116,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340720,Primary bladder cancer BT117,BT117,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340721,Primary bladder cancer BT118,BT118,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340722,Primary bladder cancer BT119,BT119,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340723,Primary bladder cancer BT120,BT120,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340724,Primary bladder cancer BT121,BT121,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340725,Primary bladder cancer BT122,BT122,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340726,Primary bladder cancer BT123,BT123,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340727,Primary bladder cancer BT124,BT124,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340728,Primary bladder cancer BT125,BT125,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340729,Primary bladder cancer BT126,BT126,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340730,Primary bladder cancer BT127,BT127,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340731,Primary bladder cancer BT128,BT128,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340732,Primary bladder cancer BT129,BT129,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340733,Primary bladder cancer BT130,BT130,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340734,Primary bladder cancer BT131,BT131,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340735,Primary bladder cancer BT132,BT132,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340736,Primary bladder cancer BT133,BT133,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340737,Primary bladder cancer BT134,BT134,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340738,Primary bladder cancer BT135,BT135,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340739,Primary bladder cancer BT136,BT136,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340740,Primary bladder cancer BT137,BT137,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340741,Primary bladder cancer BT138,BT138,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340742,Primary bladder cancer BT139,BT139,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340743,Primary bladder cancer BT140,BT140,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340744,Primary bladder cancer BT141,BT141,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340745,Primary bladder cancer BT142,BT142,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340746,Primary bladder cancer BT143,BT143,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340747,Primary bladder cancer BT144,BT144,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340748,Primary bladder cancer BT145,BT145,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340749,Primary bladder cancer BT146,BT146,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340750,Primary bladder cancer BT147,BT147,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340751,Primary bladder cancer BT148,BT148,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340752,Primary bladder cancer BT149,BT149,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340753,Primary bladder cancer BT150,BT150,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340754,Primary bladder cancer BT151,BT151,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340755,Primary bladder cancer BT152,BT152,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340756,Primary bladder cancer BT153,BT153,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340757,Primary bladder cancer BT154,BT154,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340758,Primary bladder cancer BT155,BT155,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340759,Primary bladder cancer BT156,BT156,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340760,Primary bladder cancer BT157,BT157,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340761,Primary bladder cancer BT158,BT158,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340762,Primary bladder cancer BT159,BT159,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340763,Primary bladder cancer BT160,BT160,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340764,Primary bladder cancer BT161,BT161,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340765,Primary bladder cancer BT162,BT162,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340766,Primary bladder cancer BT163,BT163,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340767,Primary bladder cancer BT164,BT164,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340768,Primary bladder cancer BT165,BT165,non-muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340769,Primary bladder cancer BT166,BT166,muscle invasive,Primary bladder cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340770,Recurrent bladder tumor BT034.1,BT034,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340771,Recurrent bladder tumor BT036.1,BT036,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340772,Recurrent bladder tumor BT036.2,BT036,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340773,Recurrent bladder tumor BT041.1,BT041,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340774,Recurrent bladder tumor BT042.1,BT042,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340775,Recurrent bladder tumor BT047.1,BT047,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340776,Recurrent bladder tumor BT047.2,BT047,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340777,Recurrent bladder tumor BT047.3,BT047,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340778,Recurrent bladder tumor BT047.4,BT047,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340779,Recurrent bladder tumor BT053.1,BT053,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340780,Recurrent bladder tumor BT057.2,BT057,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340781,Recurrent bladder tumor BT060.1,BT060,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340782,Recurrent bladder tumor BT060.2,BT060,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340783,Recurrent bladder tumor BT062.1,BT062,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340784,Recurrent bladder tumor BT062.2,BT062,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340785,Recurrent bladder tumor BT063.1,BT063,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340786,Recurrent bladder tumor BT067.1,BT067,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340787,Recurrent bladder tumor BT067.2,BT067,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340788,Recurrent bladder tumor BT067.3,BT067,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340789,Recurrent bladder tumor BT069.1,BT069,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340790,Recurrent bladder tumor BT071.1,BT071,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340791,Recurrent bladder tumor BT083.1,BT083,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE13507,GSM340792,Recurrent bladder tumor BT095.1,BT095,unknown,Recurrent non-muscle invasive tumor,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786491,1_pT2,GSM786491,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786492,2_pT2,GSM786492,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786493,3_pT2,GSM786493,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786494,4_pT4,GSM786494,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786495,5_pT4,GSM786495,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786496,6_pT3,GSM786496,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786497,7_pT1,GSM786497,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786498,8_pT3,GSM786498,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786499,9_pT2,GSM786499,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786500,10_pT3,GSM786500,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786501,11_pT1,GSM786501,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786502,12_pT2,GSM786502,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786503,13_pT3,GSM786503,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786504,14_pT4,GSM786504,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786505,15_pT4,GSM786505,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786506,16_pT3,GSM786506,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786507,17_pT3,GSM786507,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786508,18_pT3,GSM786508,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786509,19_pT2,GSM786509,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786510,20_pT4,GSM786510,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786511,21_pT4,GSM786511,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786512,22_pT3,GSM786512,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786513,23_pT4,GSM786513,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786514,24_pT4,GSM786514,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786515,25_pT3,GSM786515,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786516,26_pT4,GSM786516,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786517,27_pT1,GSM786517,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786518,28_pT3,GSM786518,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786519,29_pT3,GSM786519,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786520,30_pT4,GSM786520,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786521,31_pT4,GSM786521,unknown,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786522,32_pT3,GSM786522,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786523,33_pTa,GSM786523,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786524,34_pT3,GSM786524,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786525,35_pT4,GSM786525,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786526,36_pT3,GSM786526,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786527,37_pTa,GSM786527,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786528,38_pT3,GSM786528,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786529,39_pT3,GSM786529,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786530,40_pT3,GSM786530,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786531,41_pT3,GSM786531,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786532,42_pT3,GSM786532,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786533,43_pT3,GSM786533,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786534,44_pT1,GSM786534,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786535,45_pT3,GSM786535,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786536,46_pT4,GSM786536,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786537,47_pT2,GSM786537,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786538,48_pT2,GSM786538,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786539,49_pTa,GSM786539,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786540,50_pT4,GSM786540,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786541,51_pTa,GSM786541,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786542,52_pT4,GSM786542,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786543,53_pT3,GSM786543,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786544,54_pT3,GSM786544,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786545,55_pT3,GSM786545,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786546,56_pT4,GSM786546,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786547,57_pT3,GSM786547,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786548,58_pT2,GSM786548,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786549,59_pT3,GSM786549,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786550,60_pT3,GSM786550,unknown,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786551,61_pT3,GSM786551,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786552,62_pT3,GSM786552,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786553,63_pT4,GSM786553,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786554,64_pT3,GSM786554,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786555,65_pT1,GSM786555,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786556,66_pTa,GSM786556,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786557,67_pT3,GSM786557,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786558,68_pT1,GSM786558,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786559,69_pT1,GSM786559,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786560,70_pT3,GSM786560,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786561,71_pT4,GSM786561,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786562,72_pT2,GSM786562,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786563,73_pT3,GSM786563,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786564,74_pT3,GSM786564,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786565,75_pT1,GSM786565,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786566,76_pT2,GSM786566,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786567,77_pT2,GSM786567,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786568,78_pT3,GSM786568,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786569,79_pT3,GSM786569,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786570,80_pT3,GSM786570,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786571,81_pT3,GSM786571,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786572,82_pT1,GSM786572,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786573,83_pT2,GSM786573,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786574,84_pT2,GSM786574,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786575,85_pT4,GSM786575,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786576,86_pT3,GSM786576,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786577,87_pT3,GSM786577,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786578,88_pT3,GSM786578,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786579,89_pT1,GSM786579,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786580,90_pT2,GSM786580,unknown,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786581,91_pT2,GSM786581,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786582,92_pT3,GSM786582,2.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient
+GSE31684,GSM786583,93_pT2,GSM786583,1.0,Bladder Cancer,see subset counts,GEO title/source identifier; GSE31684 one cystectomy sample per published patient

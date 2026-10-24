@@ -1,0 +1,22 @@
+{
+  "source_h5ad": "GSE169379_MIBC_snSeq.h5ad (local input; not redistributed)",
+  "source_h5ad_sha256": "3944f576cdf832aea0461dabf7ededd58bb3ddf70b6effb76372fa8a61166934",
+  "historical_cell_score_file": "historical CNV-windowed score table (local provenance file; not redistributed)",
+  "historical_cell_score_sha256": "6d655773ff8d30d9c6446722fb66f51130f7bbc64a92b10ec00bd7a57faef618",
+  "historical_classifier_script": "historical CNV-windowed classifier (local provenance file; not redistributed)",
+  "historical_classifier_script_sha256": "e0f647da88fe50a343413770b54ca0718086050123637222472b7fa4402defcb",
+  "cell_ids_exactly_match": true,
+  "metadata_exactly_match": [
+    "Patient",
+    "celltype",
+    "subtype"
+  ],
+  "epithelial_cells": 59770,
+  "heuristic_selected_cells": 3013,
+  "all_selected_patients": 25,
+  "primary_patients_min20_selected_cells": 19,
+  "threshold_definition": "cnv_burden above 99th percentile of windowed scores in pooled Lymphocyte/Fibroblast/Myeloid/Endothelial reference cells (historical script)",
+  "interpretation": "Exploratory CNV-window-deviation heuristic only; neither CopyKAT nor inferCNV ground truth and not a definitive malignant-cell annotation.",
+  "TAP2": "not estimable because source column is all zero",
+  "seed": 20261021
+}

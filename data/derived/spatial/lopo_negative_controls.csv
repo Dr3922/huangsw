@@ -1,0 +1,5 @@
+section,heldout_perturbation_marker_identical,heldout_perturbation_cut_identical,shuffle_selected_overlap,shuffle_purpose
+A1,True,True,1,"pipeline negative control, not a patient-level null test"
+B1,True,True,1,"pipeline negative control, not a patient-level null test"
+C1,True,True,1,"pipeline negative control, not a patient-level null test"
+D1,True,True,1,"pipeline negative control, not a patient-level null test"

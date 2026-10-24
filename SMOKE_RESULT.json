@@ -1,0 +1,103 @@
+{
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "h5py": "3.15.1"
+  },
+  "checks": [
+    {
+      "check": "GSE13507 primary n",
+      "pass": true,
+      "detail": "165"
+    },
+    {
+      "check": "GSE13507 eligible-tumor sensitivity n",
+      "pass": true,
+      "detail": "188"
+    },
+    {
+      "check": "bulk immune q75 estimate",
+      "pass": true,
+      "detail": "-0.6476623896414222"
+    },
+    {
+      "check": "single-nucleus APM cluster bootstrap",
+      "pass": true,
+      "detail": "{'estimate': -0.6467032798466138, 'ci_low': -0.7950432861199181, 'ci_high': -0.4282129262643295, 'bootstrap_effective': 4998, 'bootstrap_failed': 2, 'negative_fraction': 1.0, 'p': 0.0002000400080016, 'scale': 'logCP10k_count_pseudobulk', 'min_cells': 20, 'feature': 'apm_module', 'patients': 25, 'patient_states': 104, 'family': 'modules', 'q': 0.0003001200480192}"
+    },
+    {
+      "check": "four strict LOPO folds",
+      "pass": true,
+      "detail": "[{'section': 'A1', 'n_training_patients': 24}, {'section': 'B1', 'n_training_patients': 24}, {'section': 'C1', 'n_training_patients': 24}, {'section': 'D1', 'n_training_patients': 24}]"
+    },
+    {
+      "check": "held-out patient excluded",
+      "pass": true,
+      "detail": "all folds"
+    },
+    {
+      "check": "TCGA bridge denominator",
+      "pass": true,
+      "detail": "{'subset': 'all_complete', 'outcome': 'FGFR3', 'n': 402, 'patients': 402, 'mutant_n': 58, 'wildtype_n': 344, 'mutant_mean': 0.8508396551724137, 'wt_mean': -0.1506622093023255, 'mutant_median': 1.06175, 'wt_median': 0.1089, 'scale': 'cBioPortal all-sample reference RNASeqV2 z-score', 'mutation': 'non-silent coding; VUS included; amplification separate', 'estimate': 1.0644105236694943, 'se': 0.146848793860058, 'ci_low': 0.7765868877037805, 'ci_high': 1.352234159635208, 'p': 3.6419905081050025e-19, 'q': 5.827184812968004e-18}"
+    },
+    {
+      "check": "recompute DL meta from cohort effects",
+      "pass": true,
+      "detail": "[np.float64(-0.6476623896414222), np.float64(0.09868726954076827), 0]"
+    },
+    {
+      "check": "recompute GSE32894 Cohen d",
+      "pass": true,
+      "detail": "-0.630252984841054"
+    },
+    {
+      "check": "recompute GSE13507 Cohen d",
+      "pass": true,
+      "detail": "-0.5799950803669413"
+    },
+    {
+      "check": "recompute GSE31684 Cohen d",
+      "pass": true,
+      "detail": "-0.8287423761653413"
+    },
+    {
+      "check": "recompute independent donor APM correlation",
+      "pass": true,
+      "detail": "-0.76"
+    },
+    {
+      "check": "recompute donor-bootstrap CI and P",
+      "pass": true,
+      "detail": "[4998, np.float64(-0.7950432861199181), np.float64(-0.4282129262643295), np.float64(0.00020004000800160032)]"
+    },
+    {
+      "check": "recompute module BH correction",
+      "pass": true,
+      "detail": "[0.0003001200480192, 0.0003001200480192, 0.0022]"
+    },
+    {
+      "check": "recompute spatial DC rho A1",
+      "pass": true,
+      "detail": "-0.4196593249645886"
+    },
+    {
+      "check": "recompute spatial DC rho B1",
+      "pass": true,
+      "detail": "-0.578935694184347"
+    },
+    {
+      "check": "recompute spatial DC rho C1",
+      "pass": true,
+      "detail": "-0.3750371513274419"
+    },
+    {
+      "check": "recompute spatial DC rho D1",
+      "pass": true,
+      "detail": "-0.4565512245291378"
+    }
+  ],
+  "status": "PASS"
+}

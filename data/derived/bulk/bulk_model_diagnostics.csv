@@ -1,0 +1,43 @@
+cohort,subset,outcome,shapiro_residual_p,breusch_pagan_p,max_cooks_d,uncertainty
+GSE32894,submitted_all,Luminal-papillary,4.75974621391706e-08,6.384950921732933e-19,0.175345883602508,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,submitted_all,Immune,1.3683240305657758e-10,0.000772009283274255,0.0638916504940496,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,submitted_all,Basal,1.131636913852758e-10,3.934431351885891e-07,0.1570462177003388,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,submitted_all,Stromal/TGFb,0.06068252976789993,9.402298496373678e-09,0.12207124540658311,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,submitted_all,Antigen presentation,0.19567964987108366,0.65619411154868,0.042352060907009006,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,submitted_all,Cytolytic,1.816773821880941e-10,0.00018172576091009796,0.10197546012671156,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,primary_analysis,Luminal-papillary,4.75974621391706e-08,6.384950921732933e-19,0.175345883602508,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,primary_analysis,Immune,1.3683240305657758e-10,0.000772009283274255,0.0638916504940496,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,primary_analysis,Basal,1.131636913852758e-10,3.934431351885891e-07,0.1570462177003388,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,primary_analysis,Stromal/TGFb,0.06068252976789993,9.402298496373678e-09,0.12207124540658311,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,primary_analysis,Antigen presentation,0.19567964987108366,0.65619411154868,0.042352060907009006,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE32894,primary_analysis,Cytolytic,1.816773821880941e-10,0.00018172576091009796,0.10197546012671156,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,submitted_all256,Luminal-papillary,0.004782102511682366,2.6071423325990228e-20,0.24242874878264434,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,submitted_all256,Immune,2.017379282203664e-08,6.33742124114893e-07,0.5069403037605147,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,submitted_all256,Basal,8.009743189549907e-09,0.033373069112676616,0.2514031842921922,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,submitted_all256,Stromal/TGFb,0.11565696243373247,5.504862214493096e-07,0.1902199925427993,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,submitted_all256,Antigen presentation,5.500245644783386e-06,3.812978580644087e-05,1.1355027552670296,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,submitted_all256,Cytolytic,6.807650130003783e-07,8.492531731906546e-07,0.18520388234480373,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,primary_tumor_only,Luminal-papillary,0.0039417814923679755,2.0145025833697283e-13,0.23350563871557303,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,primary_tumor_only,Immune,7.63354122361506e-08,1.6020958755884696e-06,0.7434350458750242,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,primary_tumor_only,Basal,8.053289605256309e-05,0.0404684732838274,0.2675032433878473,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,primary_tumor_only,Stromal/TGFb,0.00014762645733335298,0.0014645934823328498,0.15233876644869462,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,primary_tumor_only,Antigen presentation,3.7321959761480025e-05,2.0253747850530022e-05,1.3582051836858886,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,primary_tumor_only,Cytolytic,5.051134446431368e-07,6.93183515314744e-09,0.34791835984457714,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,all_tumors_clustered,Luminal-papillary,0.0004809504913540303,1.1379298959558299e-14,0.252620771514912,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,all_tumors_clustered,Immune,1.615289159393366e-08,7.773525113909529e-07,0.7456315557609791,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,all_tumors_clustered,Basal,5.018558642949114e-06,0.016090040620564728,0.27987826040155916,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,all_tumors_clustered,Stromal/TGFb,9.2685799983843e-05,0.0027184951523296125,0.13938960604345707,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,all_tumors_clustered,Antigen presentation,2.560421876795795e-05,5.856067592609457e-06,1.3602235592578629,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE13507,all_tumors_clustered,Cytolytic,5.000224815708358e-08,1.838036747278123e-08,0.32783131547957683,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,submitted_all,Luminal-papillary,0.46686531020044886,9.778660671366164e-05,0.1196552960117205,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,submitted_all,Immune,0.0015231638681523258,5.5514230367029866e-05,0.18234196547127912,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,submitted_all,Basal,0.008158409252614485,0.0026019902433549696,0.09179251931247114,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,submitted_all,Stromal/TGFb,0.17906375202314379,0.3777847534213483,0.08536984549543439,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,submitted_all,Antigen presentation,0.12142986825153479,0.4710243988417496,0.08649917916339754,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,submitted_all,Cytolytic,4.1109731595690234e-05,3.144250886375938e-05,0.09897513708332265,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,primary_analysis,Luminal-papillary,0.46686531020044886,9.778660671366164e-05,0.1196552960117205,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,primary_analysis,Immune,0.0015231638681523258,5.5514230367029866e-05,0.18234196547127912,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,primary_analysis,Basal,0.008158409252614485,0.0026019902433549696,0.09179251931247114,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,primary_analysis,Stromal/TGFb,0.17906375202314379,0.3777847534213483,0.08536984549543439,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,primary_analysis,Antigen presentation,0.12142986825153479,0.4710243988417496,0.08649917916339754,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation
+GSE31684,primary_analysis,Cytolytic,4.1109731595690234e-05,3.144250886375938e-05,0.09897513708332265,HC3 or donor-cluster sandwich; correlation bootstrap; non-normality does not invalidate rank correlation

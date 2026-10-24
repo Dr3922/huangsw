@@ -1,0 +1,14 @@
+signature	genes	meaning	source	caution
+apm	HLA-A;HLA-B;HLA-C;B2M;TAP1;TAP2;NLRC5	transcriptional proxy	submitted Supplementary Table S1	not a validated abundance estimator
+ifng	STAT1;IRF1;CXCL9;CXCL10;CXCL11	transcriptional proxy	submitted Supplementary Table S1	not a validated abundance estimator
+dc_original	FCER1A;HLA-DRA;HLA-DPA1;HLA-DPB1;CLEC10A;ITGAX	submitted DC-associated transcription module	submitted Supplementary Table S1	not a validated abundance estimator
+cd8	CD8A;CD8B;NKG7;PRF1;GZMB	transcriptional proxy	submitted Supplementary Table S1	not a validated abundance estimator
+stromal	FAP;ACTA2;COL1A1;COL1A2;PDGFRB;FN1;TGFB1;CXCL12	transcriptional proxy	submitted Supplementary Table S1	not a validated abundance estimator
+luminal	GATA3;FOXA1;KRT20;PPARG;KRT8;KRT18;MUC1;TACSTD2;UPK1A;UPK1B;UPK2;UPK3A;EPCAM	transcriptional proxy	submitted Supplementary Table S1	not a validated abundance estimator
+epithelial	EPCAM;TACSTD2;KRT8;KRT18;KRT19	transcriptional proxy	exploratory lineage marker sensitivity; see verified_references.csv	not a validated abundance estimator
+dc_no_hla	FCER1A;CLEC10A;ITGAX	submitted DC genes excluding HLA; specificity sensitivity	exploratory lineage marker sensitivity; see verified_references.csv	not a validated abundance estimator
+cDC1	CLEC9A;XCR1;BATF3;CADM1	cDC1-associated marker proxy	exploratory lineage marker sensitivity; see verified_references.csv	not a validated abundance estimator
+cDC2	CD1C;FCER1A;CLEC10A	cDC2-associated marker proxy	exploratory lineage marker sensitivity; see verified_references.csv	not a validated abundance estimator
+myeloid	LST1;TYROBP;FCER1G;AIF1;CTSS	transcriptional proxy	exploratory lineage marker sensitivity; see verified_references.csv	not a validated abundance estimator
+mhcii	HLA-DRA;HLA-DPA1;HLA-DPB1;CD74	transcriptional proxy	exploratory lineage marker sensitivity; see verified_references.csv	not a validated abundance estimator
+consensus	DHRS2;ERBB2;GRB7;GRHL2;KRT13;NCALD;NDRG1;PTPRQ;RNF19A;SCHLAP1;SLC2A1;SNX31;TCIRG1;UNC93B1;PTPN13	transcriptional proxy	submitted Supplementary Table S1	not a validated abundance estimator

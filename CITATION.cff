@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: Please cite the associated FGFR3 urothelial carcinoma study when using these
+  analysis scripts.
+title: FGFR3 Discover Oncology R1 analysis code
+type: software
+authors:
+- family-names: Wang
+  given-names: Peng
+- family-names: Li
+  given-names: Zhi
+- family-names: Li
+  given-names: Peng
+- family-names: Ma
+  given-names: Boyue
+- family-names: Huang
+  given-names: Shiwang
+abstract: 'Analysis scripts and nonidentifying derived data underlying the FGFR3
+  urothelial-cancer study. The included smoke test verifies selected outputs from
+  distributed derived data; it is not a full independent regeneration from raw data.
+
+  '
+repository-code: https://github.com/Dr3922/huangsw
+version: 1.0.0

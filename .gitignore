@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+data/source/
+data/raw/
+data/derived/figures/
+data/derived/public_evidence/
+data/derived/figure_data/spatial_assets/*.npy
+config/paths.yaml
+

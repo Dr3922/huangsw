@@ -1,0 +1,27 @@
+study_id,role,submitted_n,figure1_contribution,table1_contribution,difference,include_in_main_recorded
+blca_iatlas_imvigor210_2017,Clinical context,347,347,347,0,True
+blca_tcga_gdc,Discovery,413,413,413,0,True
+blca_tcga_pub_2017,Discovery,413,413,413,0,True
+blca_tcga_pan_can_atlas_2018,Discovery,411,411,411,0,True
+blca_tcga_pub,Discovery,131,131,131,0,True
+blca_tcga,Discovery / legacy,413,413,413,0,True
+blca_bgi,Discovery / legacy,99,99,99,0,True
+blca_cornell_2016,Discovery / legacy,72,72,72,0,True
+blca_msk_tcga_2020,Discovery / mixed,476,476,476,0,True
+blca_nmibc_2017,NMIBC context,105,105,105,0,True
+blca_pdx_msk_2025,Preclinical,90,0,0,0,False
+bladder_msk_2023,Targeted / enriched,526,526,0,526,False
+bladder_columbia_msk_2018,Targeted / enriched,130,130,0,130,False
+blca_mskcc_solit_2014,Targeted / enriched,109,109,0,109,False
+blca_mskcc_solit_2012,Targeted / enriched,97,97,0,97,False
+blca_dfarber_mskcc_2014,Targeted / enriched,50,50,0,50,False
+utuc_msk_2019,UTUC comparator,119,119,119,0,False
+utuc_mskcc_2015,UTUC comparator,85,85,85,0,False
+utuc_pdx_msk_2019,UTUC comparator,78,78,78,0,False
+utuc_cornell_baylor_mdacc_2019,UTUC comparator,47,47,47,0,False
+utuc_igbmc_2021,UTUC comparator,30,30,30,0,False
+blca_msk_2025,Validation,308,308,308,0,True
+blca_bcan_hcrn_2022,Validation,192,192,192,0,True
+blca_msk_2024,Validation,184,184,184,0,True
+bladder_msk_2024,Validation,112,112,112,0,True
+blca_plasmacytoid_mskcc_2016,Variant histology,34,0,0,0,False

@@ -1,0 +1,8 @@
+cohort,subset,samples,unique_patient_ids,patient_mapping_unknown,excluded,normalization,inference
+GSE32894,submitted_all,308,308,0,0,gene z scores recomputed on this subset,sample; one published index sample per patient
+GSE32894,primary_analysis,308,308,0,0,gene z scores recomputed on this subset,sample; one published index sample per patient
+GSE13507,submitted_all256,256,165,68,0,gene z scores recomputed on this subset,patient cluster
+GSE13507,primary_tumor_only,165,165,0,91,gene z scores recomputed on this subset,sample; one published index sample per patient
+GSE13507,all_tumors_clustered,188,165,0,68,gene z scores recomputed on this subset,patient cluster
+GSE31684,submitted_all,93,93,0,0,gene z scores recomputed on this subset,sample; one published index sample per patient
+GSE31684,primary_analysis,93,93,0,0,gene z scores recomputed on this subset,sample; one published index sample per patient
