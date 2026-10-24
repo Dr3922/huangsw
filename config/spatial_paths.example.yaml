@@ -1,6 +1,0 @@
-handoff: D:/path/to/FGFR3_CODEX_REANALYSIS_HANDOFF
-spatial_h5ad: D:/path/to/GSE171351_combined_visium.h5ad
-out: D:/path/to/FGFR3_TARGETED_SPATIAL_VALIDATION_V2
-
-# The source h5ad is not redistributed in this package. Verify its SHA256
-# against manifest.json before interpreting a rerun as source-identical.
